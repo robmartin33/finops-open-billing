@@ -6,17 +6,17 @@ FOB is the FinOps Foundation community specification that establishes an open st
 
 ## What problem are we trying to solve?
 
-There is no standard for surfacing key cloud cost & usage measures across multiple Cloud Service Providers (CSPs). This creates challenges for stakeholders when making decisions and quantifying the business value of cloud.  This WG will produce a consistent set of measures, describing their origins, and a prescribed approach for surfacing the corresponding billing data via a shared data schema that is serviceable across all CSP's. This open-billing standard will be critical for the FinOps community, especially as more and more service providers continue to enter the market with their own billing data formats and measures.
+There is no standard for surfacing key cloud cost & usage measures across multiple Cloud Service Providers (CSPs). This creates challenges for stakeholders when making decisions and quantifying the business value of cloud.  This project will define a consistent set of measures, describing their origins, and a prescribed approach for surfacing the corresponding billing data via a shared data schema that is serviceable across all CSP's. This open-billing standard will be critical for the FinOps community, especially as more and more service providers continue to enter the market with their own billing data formats and measures.
 
 
 ## Why are we working on a FOB standard?
 
-By defining a standard for surfacing key cloud cost & usage measures across multiple CSPs,  this FinOps program and it's working-groups support the FinOps Foundation mission to create open standards and best practices for individuals that are managing the value of cloud.
+By defining a standard for surfacing key cloud cost & usage measures across multiple CSPs,  this FinOps program and its working-groups support the FinOps Foundation mission to create open standards and best practices for individuals that are managing the value of cloud.
 
 
 ## How to get started with FOB?
 
-First, please review the Code_of_Conduct.md, Scope.md, Notices.md and License.md files.  Instructions for contributed are included in the Contributing.md file.
+First, please review the Code_of_Conduct.md, Scope.md, Notices.md and License.md files.  Instructions for contributors are included in the Contributing.md file.
 
 
 
